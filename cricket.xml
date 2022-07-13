@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cricketinfo>
+    <cricket>
+        <player>Chaitanya</player>
+        <runs>1006</runs>
+        <wickets>57</wickets>
+        <noofnotout>8</noofnotout>
+    </cricket>
+    <cricket>
+        <player>Mohasin</player>
+        <runs>1003</runs>
+        <wickets>48</wickets>
+        <noofnotout>5</noofnotout>
+    </cricket>
+    <cricket>
+        <player>Rohit</player>
+        <runs>975</runs>
+        <wickets>68</wickets>
+        <noofnotout>3</noofnotout>
+    </cricket>
+    <cricket>
+        <player>Moin</player>
+        <runs>586</runs>
+        <wickets>30</wickets>
+        <noofnotout>4</noofnotout>
+    </cricket>
+    <cricket>
+        <player>Avinash</player>
+        <runs>1301</runs>
+        <wickets>70</wickets>
+        <noofnotout>8</noofnotout>
+    </cricket>
+</cricketinfo>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+  <Student>
+    <roll>101</roll>
+    <name>Jefree</name>
+    <address>Pune</address>
+    <College>ICCS</College>
+    <course>BBACA</course>
+  </Student>
+  <Student>
+    <roll>102</roll>
+    <name>Chad</name>
+    <address>Mumbai</address>
+    <College>Mordern</College>
+    <course>BBA</course>
+  </Student>
+  <Student>
+    <roll>103</roll>
+    <name>Shon</name>
+    <address>Delhi</address>
+    <College>ST.xevier</College>
+    <course>BSC</course>
+  </Student>
+</Students>

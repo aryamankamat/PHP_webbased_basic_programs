@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricketinfo>
+    <cricket>
+        <player>Sachin</player>
+        <runs>2000</runs>
+        <wickets>100</wickets>
+        <noofnotout>20</noofnotout>
+    </cricket>
+
+    <cricket>
+        <player>Segwag</player>
+        <runs>100</runs>
+        <wickets>40</wickets>
+        <noofnotout>10</noofnotout>
+    </cricket>
+
+    <cricket>
+        <player>Yuvraj</player>
+        <runs>1020</runs>
+        <wickets>60</wickets>
+        <noofnotout>10</noofnotout>
+    </cricket>
+
+    <cricket>
+        <player>Dhoni</player>
+        <runs>9000</runs>
+        <wickets>90</wickets>
+        <noofnotout>40</noofnotout>
+    </cricket>
+
+    <cricket>
+        <player>Rahul Dravid</player>
+        <runs>170</runs>
+        <wickets>80</wickets>
+        <noofnotout>8</noofnotout>
+    </cricket>
+</cricketinfo>
